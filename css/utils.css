@@ -1,0 +1,26 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-btn {
+    height: 40px;
+    width: 40px;
+    background-color: #febd69;
+    border: none;
+    border-radius: 0px 6px 6px 0px;
+}
+.search-btn:hover {
+    background-color: #f5a623;
+}
+.search-btn i {
+    color: var(--main-bg-color);
+    font-size: 18px;
+}
+.my1{
+    margin: 5px 0;
+}
+.textc{
+    text-align: center;
+}
